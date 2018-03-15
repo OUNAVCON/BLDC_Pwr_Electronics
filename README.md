@@ -1,1 +1,1 @@
-# BLDC_Pwr_Electronics
+# BLDC_Power_Electronics

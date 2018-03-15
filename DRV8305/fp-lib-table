@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name DRV8305)(type Legacy)(uri C:/Users/isaac.rose/Documents/repo/personal/BLDC_Power_Electronics/libs/DRV8305.mod)(options "")(descr ""))
+  (lib (name PSMN4R0-40YS)(type Legacy)(uri C:/Users/isaac.rose/Documents/repo/personal/BLDC_Power_Electronics/libs/PSMN4R0-40YS.mod)(options "")(descr ""))
+  (lib (name SN74LVC3G07MDCUREP)(type Legacy)(uri C:/Users/isaac.rose/Documents/repo/personal/BLDC_Power_Electronics/libs/SN74LVC3G07MDCUREP.mod)(options "")(descr ""))
+  (lib (name SOT-363)(type Legacy)(uri C:/Users/isaac.rose/Documents/repo/personal/BLDC_Power_Electronics/libs/SOT-363.mod)(options "")(descr ""))
+  (lib (name SOT65P210X110-6N)(type Legacy)(uri C:/Users/isaac.rose/Documents/repo/personal/BLDC_Power_Electronics/libs/SOT65P210X110-6N.mod)(options "")(descr ""))
+)
