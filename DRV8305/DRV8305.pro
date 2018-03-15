@@ -1,4 +1,4 @@
-update=2/26/2018 11:59:22 AM
+update=3/2/2018 11:39:25 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -63,3 +63,13 @@ LibName31=drv830x
 LibName32=PSMN4R0-40YS
 LibName33=SN74LVC3G07MDCUREP
 LibName34=csrv065v0p
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
